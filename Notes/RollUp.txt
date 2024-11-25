@@ -1,0 +1,3 @@
+npm install -g rollup
+
+rollup usage.js --output.format iife --output.file bundle.js
